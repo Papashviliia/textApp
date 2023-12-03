@@ -1,0 +1,6 @@
+com.papas.textapplication.test.app-core-1.5.0-0 C:\Users\Вано\.gradle\caches\transforms-3\326e035788154496403d52bebbb30c9e\transformed\core-1.5.0\res
+com.papas.textapplication.test.app-annotation-experimental-1.3.0-1 C:\Users\Вано\.gradle\caches\transforms-3\d05560005646959e365d041634a35277\transformed\annotation-experimental-1.3.0\res
+com.papas.textapplication.test.app-androidTest-2 D:\textApplication\app\build\generated\res\resValues\androidTest\debug
+com.papas.textapplication.test.app-mergeDebugAndroidTestResources-3 D:\textApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.papas.textapplication.test.app-mergeDebugAndroidTestResources-4 D:\textApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.papas.textapplication.test.app-merged_res-5 D:\textApplication\app\build\intermediates\merged_res\debugAndroidTest
